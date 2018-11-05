@@ -1,6 +1,6 @@
-# Le club privé (test rails) - projet THP 6 août 2018
+# Le club privé (test rails) - 
 
-## Après avoir cloné le repo
+## Aprés de cloné le repo il faut :
 
 - `bundle install`
 
