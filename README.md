@@ -8,6 +8,9 @@
 
 - `rails test`
 
+pour tester sur heroku tapper sur votre terminale:
+
+- `open heroku`
 
 
 
